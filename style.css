@@ -1,0 +1,15 @@
+table#rojo{
+    border: red 1px solid;
+}
+
+td#azul{
+    border: blue 2px solid;
+}
+
+table#verde{
+    width: 40%;
+}
+
+#verde{
+    border: green 1px solid;
+}
